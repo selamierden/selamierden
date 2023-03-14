@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning JavaScript , React
+### 🌱 I’m currently learning JavaScript , React
 - 📫 How to reach me: selamierdn@gmail.com
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=selamierden&show_icons=true&theme=gradient) 
