@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-## 🌱 I’m currently learning JavaScript , React
+- 🌱 I’m currently learning JavaScript , React
 - 📫 How to reach me: selamierdn@gmail.com
 
 ### Connect with me ;
