@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning JavaScript , React
 - 📫 How to reach me: selamierdn@gmail.com
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=selamierden&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=selamierden&show_icons=true&theme=radical)
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/selami-erden-a54154226/)
+
+
 
